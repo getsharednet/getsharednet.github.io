@@ -1,0 +1,77 @@
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+    background-color: #0f0f0f;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+body > div {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    flex-basis: 100%;
+}
+
+body > div > :first-child {
+    flex: 30rem;
+    height: 30rem;
+    background-color: #404040;
+    border-radius: 15rem;
+}
+
+body > div > :not(:last-child):not(:first-child) {
+    flex: 100%;
+    margin-top: 5rem;
+}
+
+body > div > :last-child {
+    flex: 100%;
+    margin-top: 5rem;
+}
+
+svg {
+    fill: #f0f0f0;
+    stroke: #f0f0f0;
+    width: 30rem;
+    height: 30rem;
+}
+
+line {
+    stroke: red;
+    stroke-width: 10px;
+}
+
+body > div > div {
+    display: inline;
+    vertical-align: middle;
+}
+
+body > div > :not(:last-child):not(:first-child)  {
+    flex-basis: 100%;
+    font-size: 8rem;
+    line-height: 8rem;
+    font-family: Calibri;
+    text-align: center;
+    vertical-align: middle;
+    color:#f0f0f0;
+}
+
+body > div > :last-child {
+    flex-basis: 100%;
+    font-size: 2rem;
+    line-height: 2rem;
+    font-family: Calibri;
+    text-align: center;
+    vertical-align: middle;
+    color:#f0f0f0;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
