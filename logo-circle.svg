@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1024 1024" stroke="#ffffff" fill="#ffffff" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="512" cy="512" r="512" fill="#e74c3c" stroke="none" />
+  <line x1="512" y1="512" x2="696.3199999999999" y2="512" style="stroke-width: 30.72" />
+  <line x1="512" y1="512" x2="512" y2="696.3199999999999" style="stroke-width: 30.72" />
+  <line x1="512" y1="512" x2="327.68" y2="512" style="stroke-width: 30.72" />
+  <line x1="512" y1="512" x2="512" y2="327.68" style="stroke-width: 30.72" />
+  <line x1="696.3199999999999" y1="512" x2="826.6539219083044" y2="381.66607809169557" style="stroke-width: 30.72" />
+  <line x1="696.3199999999999" y1="512" x2="826.6539219083044" y2="642.3339219083044" style="stroke-width: 30.72" />
+  <line x1="512" y1="696.3199999999999" x2="642.3339219083044" y2="826.6539219083044" style="stroke-width: 30.72" />
+  <line x1="512" y1="696.3199999999999" x2="381.66607809169557" y2="826.6539219083044" style="stroke-width: 30.72" />
+  <line x1="327.68" y1="512" x2="197.34607809169557" y2="642.3339219083044" style="stroke-width: 30.72" />
+  <line x1="327.68" y1="512" x2="197.34607809169555" y2="381.66607809169557" style="stroke-width: 30.72" />
+  <line x1="512" y1="327.68" x2="381.66607809169557" y2="197.34607809169557" style="stroke-width: 30.72" />
+  <line x1="512" y1="327.68" x2="642.3339219083044" y2="197.34607809169555" style="stroke-width: 30.72" />
+  <line x1="642.3339219083044" y1="197.34607809169555" x2="826.6539219083044" y2="381.66607809169557" style="stroke-width: 30.72" />
+  <line x1="826.6539219083044" y1="642.3339219083044" x2="642.3339219083044" y2="826.6539219083044" style="stroke-width: 30.72" />
+  <line x1="381.66607809169557" y1="826.6539219083044" x2="197.34607809169557" y2="642.3339219083044" style="stroke-width: 30.72" />
+  <line x1="197.34607809169555" y1="381.66607809169557" x2="381.66607809169557" y2="197.34607809169557" style="stroke-width: 30.72" />
+  <circle r="51.2" cx="512" cy="512" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="696.3199999999999" cy="512" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="512" cy="696.3199999999999" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="327.68" cy="512" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="512" cy="327.68" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="826.6539219083044" cy="381.66607809169557" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="826.6539219083044" cy="642.3339219083044" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="642.3339219083044" cy="826.6539219083044" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="381.66607809169557" cy="826.6539219083044" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="197.34607809169557" cy="642.3339219083044" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="197.34607809169555" cy="381.66607809169557" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="381.66607809169557" cy="197.34607809169557" fill="#ffffff" stroke="none" />
+  <circle r="51.2" cx="642.3339219083044" cy="197.34607809169555" fill="#ffffff" stroke="none" />
+</svg>

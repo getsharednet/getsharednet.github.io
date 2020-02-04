@@ -37,9 +37,7 @@ body > div > :last-child {
     margin-top: 5rem;
 }
 
-svg {
-    fill: #f0f0f0;
-    stroke: #f0f0f0;
+img {
     width: 30rem;
     height: 30rem;
 }
